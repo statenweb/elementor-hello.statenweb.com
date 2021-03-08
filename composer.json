@@ -72,7 +72,6 @@
     "wpackagist-theme/hello-elementor": "^2.3",
     "wpackagist-plugin/elementor": "^3.1",
     "statenweb-plugin/elementor-pro": "^3.1"
-
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^2.5.1"
