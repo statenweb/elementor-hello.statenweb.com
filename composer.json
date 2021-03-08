@@ -70,7 +70,7 @@
     "wpackagist-plugin/wordpress-seo": "^15.4",
     "statenweb-plugin/gravityforms": "^2.4",
     "freemius/blocksy-companion-pro": "^1.7",
-    "wpackagist-theme/blocksy": "^1.7"
+    "wpackagist-theme/hello-elementor": "^2.3"
 
   },
   "require-dev": {
