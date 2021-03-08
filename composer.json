@@ -1,5 +1,5 @@
 {
-  "name": "statenweb/blocksy",
+  "name": "statenweb/hello.statenweb.com",
   "type": "project",
   "license": "MIT",
   "description": "Forked version of WordPress boilerplate with modern development tools, easier configuration, and an improved folder structure",
@@ -69,8 +69,9 @@
     "wpackagist-plugin/wp-ses": "^1.4",
     "wpackagist-plugin/wordpress-seo": "^15.4",
     "statenweb-plugin/gravityforms": "^2.4",
-    "freemius/blocksy-companion-pro": "^1.7",
-    "wpackagist-theme/hello-elementor": "^2.3"
+    "wpackagist-theme/hello-elementor": "^2.3",
+    "wpackagist-plugin/elementor": "^3.1",
+    "statenweb-plugin/elementor-pro": "^3.1"
 
   },
   "require-dev": {

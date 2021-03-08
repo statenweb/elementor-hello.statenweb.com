@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "40089d4e5c09ffa8e014eabcfe9dc7aa",
+    "content-hash": "9672d220aa004089b2c5847578bf1a95",
     "packages": [
         {
             "name": "composer/installers",
@@ -124,18 +124,6 @@
             "dist": {
                 "type": "zip",
                 "url": "https://composer.deliciousbrains.com/?wc-api=delicious-brains&request=composer_download&package=wp-migrate-db-pro-media-files&version=1.4.16&composer_key=A3E1F7021543E61F2196AADB74515E59"
-            },
-            "require": {
-                "composer/installers": "~1.0"
-            },
-            "type": "wordpress-plugin"
-        },
-        {
-            "name": "freemius/blocksy-companion-pro",
-            "version": "1.7.63",
-            "dist": {
-                "type": "zip",
-                "url": "https://api.freemius.com/v1/users/1856698/plugins/5115/updates/download.zip?auth_date=Mon%2C+08+Mar+2021+03%3A16%3A25+%2B0000&authorization=FSE+1856698%3AByYiVJBqOQ27NivvEKt6qyP7UEkgiKXGDx7mMi4HA3Sh55YO1KVLgDGq4ZCXIW6YYCvM4CCh0OeTIRHXCbjow3AbDc8EhzyvmHvi9O6VDg1G7IHrs3VmTiolNpoAMo7jKmDbS7acanCOuUALk2IgqqlG9Dp5EM4AJeQuxEc0Jmxvs957pajYZnRZ_LWFf8gv"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -401,6 +389,30 @@
             "time": "2021-02-13T14:45:06+00:00"
         },
         {
+            "name": "statenweb-plugin/elementor-pro",
+            "version": "3.1.1000000",
+            "source": {
+                "type": "git",
+                "url": "git@github.com:statenweb/wordress-plugin-elementor-pro.git",
+                "reference": "c5e00e71c86754b57c15edf2fd0c6f40ae9aad57"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://satis.statenweb.com/dist/statenweb-plugin/elementor-pro/statenweb-plugin-elementor-pro-c5e00e71c86754b57c15edf2fd0c6f40ae9aad57-zip-3cdee3.zip",
+                "reference": "c5e00e71c86754b57c15edf2fd0c6f40ae9aad57",
+                "shasum": "55e74e090fecf4d8797c1024125751a2304c95a4"
+            },
+            "type": "wordpress-plugin",
+            "license": [
+                "GPLv3"
+            ],
+            "description": "WordPress plugin `elementor-pro`",
+            "support": {
+                "source": "https://github.com/statenweb/wordress-plugin-elementor-pro/tree/3.1.1000000"
+            },
+            "time": "2021-02-25T19:30:08+00:00"
+        },
+        {
             "name": "statenweb-plugin/google-analytics-premium",
             "version": "7.16.2000000",
             "source": {
@@ -590,6 +602,24 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/autoptimize/"
+        },
+        {
+            "name": "wpackagist-plugin/elementor",
+            "version": "3.1.3",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/elementor/",
+                "reference": "tags/3.1.3"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/elementor.3.1.3.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/elementor/"
         },
         {
             "name": "wpackagist-plugin/limit-login-attempts-reloaded",
