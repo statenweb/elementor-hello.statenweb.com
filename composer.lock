@@ -779,15 +779,15 @@
         },
         {
             "name": "wpackagist-plugin/wordpress-seo",
-            "version": "16.5",
+            "version": "16.6",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
-                "reference": "tags/16.5"
+                "reference": "tags/16.6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.16.5.zip"
+                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.16.6.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -833,15 +833,15 @@
         },
         {
             "name": "wpackagist-theme/hello-elementor",
-            "version": "2.3.1",
+            "version": "2.4.0",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/hello-elementor/",
-                "reference": "2.3.1"
+                "reference": "2.4.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/hello-elementor.2.3.1.zip"
+                "url": "https://downloads.wordpress.org/theme/hello-elementor.2.4.0.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
